@@ -11,5 +11,5 @@ Basic Commands for Develop Django Project
 8. Create app::**django-admin startapp (app name)**
 9. Migrating the Model(Step-1)::**python manage.py makemigrations**
 10. Migrating the Model(Step-2)::**python manage.py migrate**
-11.Translated into SQL statements::**python manage.py sqlmigrate (migrationfilename)** 
-12.Activating Python Shell::**python manage.py shell**
+11. Translated into SQL statements::**python manage.py sqlmigrate (migrationfilename)** 
+12. Activating Python Shell::**python manage.py shell**
