@@ -7,7 +7,11 @@ Basic Commands for Develop Django Project
     pip install virtualenv
    
     ```
-2. Create Virtualenv:: **virtualenv (environment name)**
+2. Create Virtualenv
+```
+virtualenv (environment name)
+
+```
 3. Activate Environment::**(environment name)\Scripts\activate**  (windows)
 4. Deactivate Environment::**venv\Scripts\deactivate.bat** (windows)
 5. Install django:: **pip install django**
