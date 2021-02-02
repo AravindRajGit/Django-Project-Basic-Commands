@@ -1,5 +1,5 @@
-# DjangoProjectBasicCommands
-Basic Commands for Develop Django Project
+# Django Basic Commands a developer Should be know
+All These commands based on Windows OS
 
 1. Installing Virtualenv 
     
@@ -12,13 +12,53 @@ Basic Commands for Develop Django Project
     virtualenv (environment name)
     ```
     
-3. Activate Environment::**(environment name)\Scripts\activate**  (windows)
-4. Deactivate Environment::**venv\Scripts\deactivate.bat** (windows)
-5. Install django:: **pip install django**
-6. Start Django Project::**django-admin startproject (project name)**
-7. Run Django Project::**python manage.py runserver**
-8. Create app::**django-admin startapp (app name)**
-9. Migrating the Model(Step-1)::**python manage.py makemigrations**
-10. Migrating the Model(Step-2)::**python manage.py migrate**
-11. Translated into SQL statements::**python manage.py sqlmigrate (migrationfilename)** 
-12. Activating Python Shell::**python manage.py shell**
+3. Activate Environment:
+    ```
+    (environment name)\Scripts\activate  (Windows OS)
+    ```
+
+4. Deactivate Environment:
+    ```
+    venv\Scripts\deactivate.bat** (Windows OS)
+    ```
+
+5. Install django:
+    ```
+    pip install django
+    ```
+
+6. Start Django Project:
+    ```
+    django-admin startproject (project name)
+    
+    ```
+7. Run Django Project:
+    ```
+    python manage.py runserver
+    
+    ```
+
+8. Create app:
+    ```
+    django-admin startapp (app name)
+    
+    ```
+
+9. Migrating the Model(Step-1):
+    ```
+    python manage.py makemigrations
+    ```
+
+10. Migrating the Model(Step-2):
+    ```
+    python manage.py migrate
+    ```
+
+11. Translate  ORMS into SQL statements:
+    ```
+    python manage.py sqlmigrate (migrationfilename)
+    ```
+12. Activating Python Shell:
+    ```
+    python manage.py shell
+    ```
