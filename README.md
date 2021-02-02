@@ -7,38 +7,38 @@ All These commands based on Windows OS
     pip install virtualenv
     ```
     
-2. Create Virtualenv
+2. Creating Virtualenv
     ```
     virtualenv (environment name)
     ```
     
-3. Activate Environment:
+3. Activating Environment:
     ```
     (environment name)\Scripts\activate  (Windows OS)
     ```
 
-4. Deactivate Environment:
+4. Deactivating Environment:
     ```
     venv\Scripts\deactivate.bat** (Windows OS)
     ```
 
-5. Install django:
+5. Installing django:
     ```
     pip install django
     ```
 
-6. Start Django Project:
+6. Starting Django Project:
     ```
     django-admin startproject (project name)
     
     ```
-7. Run Django Project:
+7. Running Django Project:
     ```
     python manage.py runserver
     
     ```
 
-8. Create app:
+8. Creating app:
     ```
     django-admin startapp (app name)
     
@@ -54,7 +54,7 @@ All These commands based on Windows OS
     python manage.py migrate
     ```
 
-11. Translate  ORMS into SQL statements:
+11. Translating  ORMS into SQL statements:
     ```
     python manage.py sqlmigrate (migrationfilename)
     ```
