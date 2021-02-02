@@ -30,18 +30,16 @@ All These commands based on Windows OS
 6. Starting Django Project:
     ```
     django-admin startproject (project name)
-    
     ```
+
 7. Running Django Project:
     ```
     python manage.py runserver
-    
     ```
 
 8. Creating app:
     ```
     django-admin startapp (app name)
-    
     ```
 
 9. Migrating the Model(Step-1):
