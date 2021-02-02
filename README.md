@@ -2,9 +2,10 @@
 Basic Commands for Develop Django Project
 
 1. Installing Virtualenv 
-    ''''
-    pip install virtualenv
+    '''
     
+    pip install virtualenv
+   
     '''
 2. Create Virtualenv:: **virtualenv (environment name)**
 3. Activate Environment::**(environment name)\Scripts\activate**  (windows)
