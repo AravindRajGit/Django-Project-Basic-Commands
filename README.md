@@ -19,7 +19,7 @@ All These commands based on Windows OS
 
 4. Deactivating Environment:
     ```
-    venv\Scripts\deactivate.bat** (Windows OS)
+    venv\Scripts\deactivate.bat (Windows OS)
     ```
 
 5. Installing django:
