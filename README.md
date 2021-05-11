@@ -29,7 +29,7 @@ All These commands based on Windows OS
 
 6. Starting Django Project:
     ```
-    django-admin startproject (project name)
+    django-admin startproject (project name) .
     ```
 
 7. Running Django Project:
